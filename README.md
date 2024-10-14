@@ -2,5 +2,5 @@
 
 #### I'm a Software Engineer 👨‍💻
 
-- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.tsx`, `.html`, `.css`, `.scss`
-- 💬 `ping` me about **react**, **development**
+- ⚙️ I use daily: `.html`, `.css`, `.scss`, `.js`, `.ts`, `.tsx`, `.cs`, `.py`, `.sql`
+- 💬 `ping` me about **development**
